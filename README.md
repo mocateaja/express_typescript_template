@@ -1,6 +1,6 @@
 # Express TypeScript Template
 
-A basical Express app combinated with Typescript template
+A basic Express app combinated with Typescript template
 
 ## 🚀 Features
 
@@ -17,34 +17,6 @@ A basical Express app combinated with Typescript template
 - TypeScript
 - ESLint
 - Prettier
-
-## 📦 Installation
-
-1. Clone the repository:
-   git clone https://github.com/mocateaja/express_typescript_template.git
-2. Install dependencies:
-   As a senior software and hardware engineer, I'll create a unique README.md profile for your "express_typescript_template" repository. Here's a professional and informative README:
-markdownCopy# Express TypeScript Template
-
-A basical Express app combinated with Typescript template
-
-## 🚀 Features
-
-- Express.js server with TypeScript support
-- Pre-configured TypeScript compiler options
-- Modular architecture for easy scaling
-- Built-in api limiting
-- ESLint and Prettier for code quality and formatting
-
-## 🛠 Tech Stack
-
-- Node.js
-- Express.js
-- TypeScript
-- Jest
-- ESLint
-- Prettier
-- Winston
 
 ## 📦 Installation
 
