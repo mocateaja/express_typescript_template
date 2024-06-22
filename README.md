@@ -33,13 +33,7 @@ A basical Express app combinated with Typescript template
 - Express.js server with TypeScript support
 - Pre-configured TypeScript compiler options
 - Modular architecture for easy scaling
-- Built-in error handling middleware
-- Environment-based configuration
-- Logging utility using Winston
-- API rate limiting for enhanced security
-- CORS support
-- Helmet for setting secure HTTP headers
-- Jest and Supertest for unit and integration testing
+- Built-in api limiting
 - ESLint and Prettier for code quality and formatting
 
 ## 🛠 Tech Stack
