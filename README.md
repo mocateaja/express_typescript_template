@@ -40,9 +40,3 @@ npm run format
 ## 📝 License
 
 This project is [MIT](LICENSE) licensed.
-
-## 📧 Contact
-
-Raffi.MA - raffi.ma7325@gmail.com
-
-Project Link: [https://github.com/mocateaja/express_typescript_template](https://github.com/mocateaja/express_typescript_template)
